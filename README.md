@@ -1,4 +1,4 @@
-#  XR Passthrough Ghost Game
+#  XR Passthrough Ghost Game - Seek
 A mixed reality passthrough game built for Meta Quest 3 using Unity (URP + Oculus XR Plugin).
 
 ## Features
