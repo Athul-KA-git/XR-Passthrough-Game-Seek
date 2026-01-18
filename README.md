@@ -11,3 +11,7 @@ A mixed reality passthrough game built for Meta Quest 3 using Unity (URP + Oculu
 - URP High Fidelity
 - Oculus XR Plugin
 - MR Utility Kit
+  
+##  XR Passthrough Gameplay Demo
+
+https://github.com/Athul-KA-git/XR-Passthrough-Game-Seek/blob/main/Seek_Gameplay_04.mp4
